@@ -28,16 +28,14 @@ dependencies {
     implementation project(':feature')
     implementation project(':base')
     implementation 'com.android.support.constraint:constraint-layout:1.1.0'
-    implementation 'com.google.firebase:firebase-auth:11.6.0'
+    implementation 'com.google.firebase:firebase-auth:15.0.0'
+    implementation 'com.google.android.gms:play-services-auth:15.0.0'
 }
 
 apply plugin: 'com.google.gms.google-services'
 
-//compile 'com.google.firebase:firebase-auth:15.0.0'
-//compile 'com.google.android.gms:play-services-auth:15.0.0'
+
 //apply plugin: 'com.android.application'
 //...
 
-//dependencies {
-   // compile 'com.google.android.gms:play-services-auth:11.8.0'
-//}
+

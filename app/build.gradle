@@ -28,4 +28,7 @@ dependencies {
     implementation project(':feature')
     implementation project(':base')
     implementation 'com.android.support.constraint:constraint-layout:1.1.0'
+    implementation 'com.google.firebase:firebase-auth:11.6.0'
 }
+
+apply plugin: 'com.google.gms.google-services'

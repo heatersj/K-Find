@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "322825960276",
+    "firebase_url": "https://kfind-e5578.firebaseio.com",
+    "project_id": "kfind-e5578",
+    "storage_bucket": "kfind-e5578.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322825960276:android:8a42365dfc1836d4",
+        "android_client_info": {
+          "package_name": "com.samheater.k_find.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322825960276-e9bfbfrv8f7ovg02gl1e237emr9tffcn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samheater.k_find.app",
+            "certificate_hash": "d476308732e9fbb61676f7b1ed64b253c07ee666"
+          }
+        },
+        {
+          "client_id": "322825960276-ks6gd2o0thvm7a18q0i04a9l5d8dvgkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfmZlPS96rTnqGetTr6sxt2BxYK12Z8q8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322825960276-ks6gd2o0thvm7a18q0i04a9l5d8dvgkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
